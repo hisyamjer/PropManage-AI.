@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Economy
+comment1.params=ticket\ quantity\ place\ date\ rtime\ meals\ weight
+comment1.target=Economy(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ double)
+comment2.params=
+comment2.target=void\ meals()
+comment3.params=
+comment3.target=void\ lugg()
+comment4.params=
+comment4.target=void\ ticket()
+comment5.params=
+comment5.target=java.lang.String\ resit()
+numComments=6

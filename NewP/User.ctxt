@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=name\ phoneNum\ icNum\ email
+comment1.target=User(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ display()
+comment3.params=
+comment3.target=void\ read()
+numComments=4

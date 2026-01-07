@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TicketFlight
+comment1.params=ticket\ quantity\ place\ date\ rtime
+comment1.target=TicketFlight(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ display()
+numComments=3
